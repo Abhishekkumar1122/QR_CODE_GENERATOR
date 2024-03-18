@@ -1,24 +1,3 @@
-// const qrText = document.getElementById('qr-text');
-// const sizes = document.getElementById('sizes');
-// const Generatebtn = document.getElementById('Generatebtn');
-// const Downloadbtn = document.getElementById('Downloadbtn');
-
-
-// const qrcontainer = document.getElementById('.qr-body');
-
-// Generatebtn.addEventListener('click',(e)=>{
-//     e.preventDefault();
-//     genQrcode();
-// })
-// function genQrcode(){
-//     new genQrcode(qrcontainer,{
-//         text:qrText.value,
-//         height: size,
-//         width:size,
-//         colorLight:"#fff",
-//         colorDark:"#000",
-//     });
-// }
 
 const qrText = document.getElementById('qr-text');
 const sizes = document.getElementById('sizes');
